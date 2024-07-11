@@ -1,6 +1,4 @@
-import java.util.Stack;
 
-import problemsSolution.problemNo1190;
 
 import static problemsSolution.problemNo1190.reverseParentheses;
 
